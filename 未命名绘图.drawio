@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:46:41.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4TGIqFh7BRxmdDnHbScn" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T07:49:26.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NHKZrJBwShMbec3OsqVo" version="20.0.4" type="github">
   <diagram id="mNUrFVFDp84M8y5VHnX-" name="第 1 页">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2569" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
         <mxCell id="bbwarOqlnp68-i9IA4N3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbwarOqlnp68-i9IA4N3-39" target="bbwarOqlnp68-i9IA4N3-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bbwarOqlnp68-i9IA4N3-39" value="是否含有A账号私有数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="500" width="100" height="60" as="geometry" />
+        <mxCell id="bbwarOqlnp68-i9IA4N3-39" value="cookie-a响应是否含有B账号私有数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbwarOqlnp68-i9IA4N3-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="500" width="40" height="30" as="geometry" />

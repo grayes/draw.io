@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T06:32:03.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N0caJD4l2rYtHBoD52yF" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T09:04:22.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WzADrwFg3sTjYHLE7KU8" version="20.0.4" type="github">
   <diagram id="2shEiHxplEj3Gfb1FotA" name="第 1 页">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2569" math="0" shadow="0">
       <root>
@@ -45,30 +45,30 @@
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="612.64" y="570" as="targetPoint" />
-            <mxPoint x="442.64" y="570" as="sourcePoint" />
+            <mxPoint x="615" y="560" as="targetPoint" />
+            <mxPoint x="445" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-14" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="110" height="280" as="geometry" />
+          <mxGeometry x="310" y="530" width="110" height="280" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-16" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="520" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.022;exitY=1.147;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="436.17999999999984" y="650.4100000000001" as="sourcePoint" />
-            <mxPoint x="623.8199999999999" y="650" as="targetPoint" />
+            <mxPoint x="436.17999999999984" y="669.9100000000001" as="sourcePoint" />
+            <mxPoint x="623.8199999999999" y="669.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWgY6vxKkn04p1SGABee-18" value="3.返回sessionid-B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AWgY6vxKkn04p1SGABee-18" value="4.返回sessionid-B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AWgY6vxKkn04p1SGABee-19" value="4.使用sessionid-B访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AWgY6vxKkn04p1SGABee-19" value="5.使用sessionid-B访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="730" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AWgY6vxKkn04p1SGABee-20" value="2.输入用户名密码，服务端创建session，&lt;br&gt;并生成新的sessionid-B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="605" width="240" height="40" as="geometry" />
+        <mxCell id="AWgY6vxKkn04p1SGABee-20" value="3.输入用户名密码，服务端创建session，&lt;br&gt;并生成新的sessionid-B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-23" value="未登陆状态下请求服务端，header中无sessionid&lt;br&gt;服务端返回一个sessionid-A，如果请求过程中未使用session&lt;br&gt;则服务端认为此sessionid-A无效，服务器为节省资源不会记录，&lt;br&gt;也不会在response.cookie中存入sessionid-A&lt;br&gt;直到登录成功服务端存入session后服务端认为有效，存入sessionid-B，并返回给客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="370" width="490" height="90" as="geometry" />
@@ -83,16 +83,25 @@
           <mxGeometry x="310" y="90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-29" value="客户端未登陆状态携带sessionid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="305" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-32" value="1.未登录状态下无sessionid访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="540" width="190" height="30" as="geometry" />
+          <mxGeometry x="435" y="530" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525" y="540" as="sourcePoint" />
             <mxPoint x="525" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AWgY6vxKkn04p1SGABee-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWgY6vxKkn04p1SGABee-35" value="2.服务端返回sessionid-A，由于无session，&lt;br&gt;此id-A无效，不会存入cookie中返回给客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T09:04:22.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WzADrwFg3sTjYHLE7KU8" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T09:05:42.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZWfH6QMkyCwIV5XlCvlF" version="20.0.4" type="github">
   <diagram id="2shEiHxplEj3Gfb1FotA" name="第 1 页">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2569" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-28" value="客户端未登陆状态不携带sessionid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="150" height="30" as="geometry" />
+          <mxGeometry x="310" y="110" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AWgY6vxKkn04p1SGABee-29" value="客户端未登陆状态携带sessionid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="490" width="120" height="30" as="geometry" />

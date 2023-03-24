@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T09:08:42.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="yccDk_2f4z0srxbpjIsj" type="github"><diagram name="第 1 页" id="oH-pCWWZU1VroDXo15Cv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T10:04:37.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NwRCDMeOe7_c5kRi9PpQ" version="21.0.10" type="github">
+  <diagram name="第 1 页" id="oH-pCWWZU1VroDXo15Cv">
+    <mxGraphModel dx="1562" dy="3406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2569" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-1" target="_BCVdPlUPclxvEOoGEb_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="240" />
+              <mxPoint x="280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-1" value="SecScan获取并保存接口数据及响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-2" target="_BCVdPlUPclxvEOoGEb_-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="310" />
+              <mxPoint x="440" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-2" target="_BCVdPlUPclxvEOoGEb_-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="310" />
+              <mxPoint x="440" y="270" />
+              <mxPoint x="480" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-2" target="_BCVdPlUPclxvEOoGEb_-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="450" />
+              <mxPoint x="200" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-2" target="_BCVdPlUPclxvEOoGEb_-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="450" />
+              <mxPoint x="350" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-2" value="人工可批量选择接口加入对应服务，并对接口进行简单文字描述" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-4" target="_BCVdPlUPclxvEOoGEb_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-4" value="测试人员开启代理发送接口请求数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="-10" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-7" target="_BCVdPlUPclxvEOoGEb_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-7" value="项目管理新增子项目-服务，建好各项目对应的多个服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-15" target="_BCVdPlUPclxvEOoGEb_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="420" />
+              <mxPoint x="560" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-11" value="新增、删减、修改参数及参数值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-13" value="请求方式GET或POST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-15" value="接口内可修改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-19" value="全&lt;br&gt;局&lt;br&gt;可&lt;br&gt;修&lt;br&gt;改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-20" target="_BCVdPlUPclxvEOoGEb_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-20" value="Host" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-22" target="_BCVdPlUPclxvEOoGEb_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_BCVdPlUPclxvEOoGEb_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="420" />
+              <mxPoint x="560" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-22" value="Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-19" target="_BCVdPlUPclxvEOoGEb_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-35" target="_BCVdPlUPclxvEOoGEb_-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-35" value="可批量调用接口进行测试" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_BCVdPlUPclxvEOoGEb_-38" target="_BCVdPlUPclxvEOoGEb_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="230" />
+              <mxPoint x="280" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-38" value="人工新增接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-40" value="接入线上或qa数据定期更新，对新增接口或接口变更参数进行标记，人工确认后在接口内更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-44" value="更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BCVdPlUPclxvEOoGEb_-48" value="第二次记录接口对已保存的接口进行颜色变浅等标记，提示测试人员已测试过" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

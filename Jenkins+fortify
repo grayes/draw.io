@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T08:35:05.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="G3GoVkNXlHGtc382geJ-" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T09:39:33.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rrVFyaebmTYjy9f2FX5L" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1838" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,6 +373,51 @@
         </mxCell>
         <mxCell id="9Xty3f63uOiktNKEMdnd-90" value="拉取完成后接入Fortify及自定义规则扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-98" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;发件人&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="91.88" y="2970" width="131.25" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-101" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;收件人&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="2970" width="131.25" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.38000000000002" y="3100" as="sourcePoint" />
+            <mxPoint x="499.4" y="3100.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236.25000000000003" y="3240" as="sourcePoint" />
+            <mxPoint x="506.27" y="3240.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236.25" y="3190" as="sourcePoint" />
+            <mxPoint x="506.27" y="3190.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="3040" as="sourcePoint" />
+            <mxPoint x="265" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-110" value="收件人生成一对密钥，公钥为c，私钥为d&lt;br&gt;c发送给发件人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="3000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-112" value="使用c加密明文x，得到密文c(x)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="3070" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-115" value="收件人使用d解密得到明文x=d(c(x))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="3110" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-116" value="加密：公钥加密，私钥解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="3158" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Xty3f63uOiktNKEMdnd-117" value="签名：私钥加密，公钥解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="3198" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

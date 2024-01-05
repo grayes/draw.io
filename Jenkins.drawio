@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T10:05:26.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sntuCBmOFuBr12wz36_m" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T10:18:21.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ftuz517k3NPC7LHpdl9S" version="22.1.16" type="github">
   <diagram name="第 1 页" id="it9TJO6Uga_pfBJdDB2V">
     <mxGraphModel dx="2629" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -530,11 +530,23 @@
         <mxCell id="ft3CC20hgZHll0JTD6S5-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;opacity=30;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="-130.06" width="1450" height="350.06" as="geometry" />
         </mxCell>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-1" target="q-joQJNY5v0QrEAoma1t-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-1" target="q-joQJNY5v0QrEAoma1t-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="2060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="1940" />
+              <mxPoint x="-440" y="2034" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-1" value="提升覆盖率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-626" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-2" value="降噪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-604" y="2204" width="120" height="60" as="geometry" />
+          <mxGeometry x="-626" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-3" value="白名单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-184" y="2124" width="120" height="60" as="geometry" />
@@ -551,23 +563,11 @@
         <mxCell id="q-joQJNY5v0QrEAoma1t-7" value="开发项目组需求通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-237" y="1732" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q-joQJNY5v0QrEAoma1t-8" value="调用Jenkins API每日对比系统组新增项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="1990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q-joQJNY5v0QrEAoma1t-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-1" target="q-joQJNY5v0QrEAoma1t-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-494" y="1894" as="sourcePoint" />
-            <mxPoint x="-384" y="1834" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q-joQJNY5v0QrEAoma1t-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-1" target="q-joQJNY5v0QrEAoma1t-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-500" y="1940" as="sourcePoint" />
-            <mxPoint x="-384" y="2014" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-8" value="调用系统组Jenkins API每日对比新增项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-237" y="2004" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-12" value="被动获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-374" y="1960" width="70" height="30" as="geometry" />
+          <mxGeometry x="-365" y="2000" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-13" value="系统组新增项目通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-237" y="1872" width="120" height="60" as="geometry" />
@@ -586,6 +586,15 @@
         </mxCell>
         <mxCell id="q-joQJNY5v0QrEAoma1t-14" value="主动获取" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-374" y="1792" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-28" target="q-joQJNY5v0QrEAoma1t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-joQJNY5v0QrEAoma1t-28" target="q-joQJNY5v0QrEAoma1t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-joQJNY5v0QrEAoma1t-28" value="安全Jenkins&lt;br&gt;持续化运营" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="2064" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T10:05:40.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3jOhQMimJY2q604qMHj_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T10:29:35.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="69vALa48c8b4r-EjAZyn" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tnutEjv0PzV64pPwKBss">
     <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,33 @@
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="1370" />
+              <mxPoint x="70" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-15" target="EmcOPcedgl4LZFMRAa7Y-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="1370" />
+              <mxPoint x="340" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-15" value="依次进入不同项目组新建任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="920" width="130" height="60" as="geometry" />
         </mxCell>
@@ -124,6 +151,9 @@
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-24" value="培训测评项目组安全检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="940" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-36" target="EmcOPcedgl4LZFMRAa7Y-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-36" value="《社C（含应届生）用户体验提升项目》-WYB202310023 &lt;br&gt;《市场部需求-企微私域运营价值提升项目》-WYD202310091&lt;br&gt;《C端促粘项目》WYB202312135" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="680" width="360" height="50" as="geometry" />
         </mxCell>
@@ -154,8 +184,70 @@
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-53" value="《网才微前端升级》WYD202310026&lt;br&gt;《网才.net转Java》&amp;nbsp;WYD202310024&lt;br&gt;《职位中心建设项目》WYD202310025&lt;br&gt;《网才零散小需求支持项目-2024Q1》&amp;nbsp;WYB202312121" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1350" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmcOPcedgl4LZFMRAa7Y-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-55" value="任务标题：&lt;br&gt;与开发需求标题一致" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-57" target="EmcOPcedgl4LZFMRAa7Y-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-57" value="搜推项目组安全检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="1180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-58" value="火凤凰-《搜推基础建设项目-评估中心》-WYD202309013" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1440" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-61" target="EmcOPcedgl4LZFMRAa7Y-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1245" />
+              <mxPoint x="500" y="1505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-61" value="中台架构项目组安全检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-62" value="《IM运营位设计重构项目》-WYD202310094" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1490" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-66" value="备注内容：&lt;br&gt;开发需求地址及prd链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-67" value="王维" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="687.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-69" value="王维" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="752.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-70" value="张永恒" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="817.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-71" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="885" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-72" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="970" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-73" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1097.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-74" value="刘英" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1192.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-75" value="陈聪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1277.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-76" value="张永恒" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1362.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-77" value="纪振东" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1435" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-78" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1485" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-79" value="指派人员：&lt;br&gt;固定项目组负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

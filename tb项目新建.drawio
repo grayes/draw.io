@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T10:31:34.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bkmFh4JTI-qmyRs-LtlE" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T10:32:00.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Yp_8aNbGZfXFTWgCwmFJ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tnutEjv0PzV64pPwKBss">
     <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,16 +173,16 @@
           <mxGeometry x="560" y="810" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-41" value="《CRM技术栈升级项目》WYD202310087&lt;br&gt;《财务信息化项目》WYB202312131&lt;br&gt;《CRM业务需求支持项目-2024Q1》WYB202310088&lt;br&gt;《CRM支持市场部需求-2024Q1》WYD202310089" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1180" width="360" height="60" as="geometry" />
+          <mxGeometry x="560" y="1167.5" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-42" value="《Internal项目》-WYB202310061" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="880" width="360" height="50" as="geometry" />
+          <mxGeometry x="560" y="880" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-43" value="测评技术架构升级项目-WYD202310052&lt;br&gt;《测评业务常规化需求支持项目》-WYB202310051&lt;br&gt;测评业务方小需求快速迭代-2024Q1-WYB202312122&lt;br&gt;《VIP卡支持在线兑换及商城建设项目》WYB202312124&lt;br&gt;IE作答端功能迭代&amp;amp;界面优化-WYB202312136&lt;br&gt;Leader+方案测评项目-WYB202312137&lt;br&gt;培训业务方小需求快速迭代-2024Q1WYB202312123&lt;br&gt;《在线培训C端重构项目》WYB202310054" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="940" width="360" height="120" as="geometry" />
+          <mxGeometry x="560" y="920" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1070" width="360" height="90" as="geometry" />
+          <mxGeometry x="560" y="1060" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-45" value="《2024Q1财务自动化项目》-WYB20240108&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2024Q1灵活用工项目WYB20240103&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《HRO技术升级改造》-WYD202310036&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;HRO2024Q1维护项目WYB20240102&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《无忧员工自助-供应商改版/切换任务》-WYB202310038&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《协议服务2.0-备案及申请审批流程线上化》-WYB202310039" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1250" width="360" height="90" as="geometry" />

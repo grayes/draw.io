@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T02:57:55.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.18" etag="Nuiwo119oF1nNtHgUPVV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T09:32:45.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gvP5-LD-rWIqWq6SgPJG" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tnutEjv0PzV64pPwKBss">
-    <mxGraphModel>
+    <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-1" target="EmcOPcedgl4LZFMRAa7Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-1" value="我参与的项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-2" value="排除“日常事务记录、Demo测试”及安全组内部项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-4" value="依次进入每个项目内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-5" value="筛选“项目需求状态=已上线”，获取项目链接、标题、prd链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-6" value="如果prd无链接，在动态中搜索“https://doc.weixin.qq.com/doc/”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="415" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-7" value="动态中也无链接，留空，人工补充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

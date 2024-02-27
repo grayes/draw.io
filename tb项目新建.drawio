@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T03:19:57.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5zb4IrazSYd59QdAfLW-" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T03:40:14.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O470treZxwf3zZpUb4PE" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tnutEjv0PzV64pPwKBss">
-    <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,29 +142,53 @@
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-36" value="《社C（含应届生）用户体验提升项目》-WYB202310023 &lt;br&gt;《市场部需求-企微私域运营价值提升项目》-WYD202310091&lt;br&gt;《C端促粘项目》WYB202312135" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="680" width="360" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-37" target="EmcOPcedgl4LZFMRAa7Y-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-37" value="《APP安全生产项目》WYS202310078&lt;br&gt;《APP动态卡片运营平台》WYB202310075" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="750" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-17" target="EmcOPcedgl4LZFMRAa7Y-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-40" target="EmcOPcedgl4LZFMRAa7Y-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-40" value="《B端认证系统技术升级改造项目》WYD202312127" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="810" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-41" target="EmcOPcedgl4LZFMRAa7Y-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-41" value="《CRM技术栈升级项目》WYD202310087&lt;br&gt;《财务信息化项目》WYB202312131&lt;br&gt;《CRM业务需求支持项目-2024Q1》WYB202310088&lt;br&gt;《CRM支持市场部需求-2024Q1》WYD202310089" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1167.5" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-42" target="EmcOPcedgl4LZFMRAa7Y-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-42" value="《Internal项目》-WYB202310061" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-43" target="EmcOPcedgl4LZFMRAa7Y-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-43" value="测评技术架构升级项目-WYD202310052&lt;br&gt;《测评业务常规化需求支持项目》-WYB202310051&lt;br&gt;测评业务方小需求快速迭代-2024Q1-WYB202312122&lt;br&gt;《VIP卡支持在线兑换及商城建设项目》WYB202312124&lt;br&gt;IE作答端功能迭代&amp;amp;界面优化-WYB202312136&lt;br&gt;Leader+方案测评项目-WYB202312137&lt;br&gt;培训业务方小需求快速迭代-2024Q1WYB202312123&lt;br&gt;《在线培训C端重构项目》WYB202310054" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="920" width="360" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-44" target="EmcOPcedgl4LZFMRAa7Y-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1060" width="360" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-45" target="EmcOPcedgl4LZFMRAa7Y-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-45" value="《2024Q1财务自动化项目》-WYB20240108&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2024Q1灵活用工项目WYB20240103&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《HRO技术升级改造》-WYD202310036&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;HRO2024Q1维护项目WYB20240102&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《无忧员工自助-供应商改版/切换任务》-WYB202310038&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;《协议服务2.0-备案及申请审批流程线上化》-WYB202310039" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1250" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-53" target="EmcOPcedgl4LZFMRAa7Y-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-53" value="《网才微前端升级》WYD202310026&lt;br&gt;《网才.net转Java》&amp;nbsp;WYD202310024&lt;br&gt;《职位中心建设项目》WYD202310025&lt;br&gt;《网才零散小需求支持项目-2024Q1》&amp;nbsp;WYB202312121" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1350" width="360" height="60" as="geometry" />
@@ -177,6 +201,9 @@
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-57" value="搜推项目组安全检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="1180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-58" target="EmcOPcedgl4LZFMRAa7Y-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-58" value="火凤凰-《搜推基础建设项目-评估中心》-WYD202309013" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1440" width="360" height="30" as="geometry" />
@@ -211,6 +238,9 @@
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-61" value="中台架构项目组安全检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1230" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EmcOPcedgl4LZFMRAa7Y-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-62" target="EmcOPcedgl4LZFMRAa7Y-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-62" value="《IM运营位设计重构项目》-WYD202310094" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1490" width="360" height="30" as="geometry" />
         </mxCell>
@@ -230,16 +260,16 @@
           <mxGeometry x="960" y="817.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-71" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="885" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="877.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-72" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="970" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="962.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-73" value="胡育铭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1097.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="1087.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-74" value="刘英" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1192.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="1180" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-75" value="陈聪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1277.5" width="80" height="35" as="geometry" />
@@ -248,10 +278,10 @@
           <mxGeometry x="960" y="1362.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-77" value="纪振东" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1435" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="1437.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-78" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1485" width="80" height="35" as="geometry" />
+          <mxGeometry x="960" y="1487.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmcOPcedgl4LZFMRAa7Y-79">
           <mxGeometry relative="1" as="geometry">

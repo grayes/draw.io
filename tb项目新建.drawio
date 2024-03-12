@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:37:52.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jFoBbpqFQQe5pKhm54oT" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:40:49.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wK0z1Axxt1vEXLBwQB3h" version="24.0.1" type="github">
   <diagram name="第 1 页" id="tnutEjv0PzV64pPwKBss">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
         <mxCell id="cV58HkLGAE8JkO6s5awu-4" value="执行者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="634" y="1729" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CEpd1YGNLfn1ZURbKLTH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cV58HkLGAE8JkO6s5awu-5" target="cV58HkLGAE8JkO6s5awu-16">
+        <mxCell id="CEpd1YGNLfn1ZURbKLTH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CEpd1YGNLfn1ZURbKLTH-40" target="cV58HkLGAE8JkO6s5awu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cV58HkLGAE8JkO6s5awu-5" value="完成时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -403,6 +403,15 @@
         </mxCell>
         <mxCell id="EmcOPcedgl4LZFMRAa7Y-6" value="如果prd无链接，在动态中搜索“https://doc.weixin.qq.com/doc/”&lt;div&gt;动态中也无链接则留空&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="1860" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CEpd1YGNLfn1ZURbKLTH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cV58HkLGAE8JkO6s5awu-5" target="CEpd1YGNLfn1ZURbKLTH-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789" y="1779" as="sourcePoint" />
+            <mxPoint x="789" y="1991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEpd1YGNLfn1ZURbKLTH-40" value="获取项目实际工时，如存在子项目，依次加上子项目工时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

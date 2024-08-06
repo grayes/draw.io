@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:46:54.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.1" etag="in-zKH_QFGQ3Wg6b7AAQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-06T09:54:24.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="12S8Zel2hkcFhTo8WKvC" version="24.7.1" type="github">
   <diagram name="第 1 页" id="5G-3X2KaGecfF87ufKCq">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aAefigyCKCC77Z8CHnxt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="30" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-2" value="发送payload&amp;nbsp;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:楷体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&lt;br/&gt;mso-bidi-font-weight:bold&quot; lang=&quot;EN-US&quot;&gt;a‘”`)]#--&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-3" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-4" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-7" value="产生数据库报错信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-8" value="匹配到数据库报错信息则存在漏洞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="120" width="30" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="sourcePoint" />
+            <mxPoint x="510" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aAefigyCKCC77Z8CHnxt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="240" as="sourcePoint" />
+            <mxPoint x="355" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAefigyCKCC77Z8CHnxt-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
